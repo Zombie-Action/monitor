@@ -4,22 +4,27 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: Mego
+    url: $MEGO
+  - name: Mego API1
+    url: $API_1
+  - name: Mego API2
+    url: $API_2
+  - name: Mego API3
+    url: $API_3
+  - name: Mego API4
+    url: $API_4
+  - name: Mego API5
+    url: $API_5
+  - name: Mego API6
+    url: $API_6
+  - name: Zabbix
+    url: $ZABBIX
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /Zombie-Action/monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
