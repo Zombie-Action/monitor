@@ -16,8 +16,6 @@ sites:
     url: $API_4
   - name: Mego API5
     url: $API_5
-  - name: Mego API6
-    url: $API_6
   - name: Zabbix
     url: $ZABBIX
 status-website:
