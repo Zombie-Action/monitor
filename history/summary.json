@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1336,
-    "timeDay": 1336,
-    "timeWeek": 1336,
-    "timeMonth": 1336,
-    "timeYear": 1336,
+    "time": 1240,
+    "timeDay": 1240,
+    "timeWeek": 1240,
+    "timeMonth": 1240,
+    "timeYear": 1240,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 912,
-    "timeWeek": 912,
-    "timeMonth": 912,
-    "timeYear": 912,
+    "time": 892,
+    "timeDay": 892,
+    "timeWeek": 892,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 973,
-    "timeWeek": 973,
-    "timeMonth": 973,
-    "timeYear": 973,
+    "time": 870,
+    "timeDay": 870,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 843,
-    "timeWeek": 843,
-    "timeMonth": 843,
-    "timeYear": 843,
+    "time": 806,
+    "timeDay": 806,
+    "timeWeek": 806,
+    "timeMonth": 806,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 778,
-    "timeWeek": 778,
-    "timeMonth": 778,
-    "timeYear": 778,
+    "time": 773,
+    "timeDay": 773,
+    "timeWeek": 773,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {}
   },
   {
@@ -100,32 +100,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 816,
-    "timeDay": 816,
-    "timeWeek": 816,
-    "timeMonth": 816,
-    "timeYear": 816,
+    "time": 794,
+    "timeDay": 794,
+    "timeWeek": 794,
+    "timeMonth": 794,
+    "timeYear": 794,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Mego API6",
-    "url": "$API_6",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "mego-api-6",
-    "status": "down",
-    "uptime": "3.65%",
-    "uptimeDay": "3.65%",
-    "uptimeWeek": "3.65%",
-    "uptimeMonth": "3.65%",
-    "uptimeYear": "3.65%",
-    "time": 761,
-    "timeDay": 761,
-    "timeWeek": 761,
-    "timeMonth": 761,
-    "timeYear": 761,
-    "dailyMinutesDown": {
-      "2020-12-07": 1
-    }
   },
   {
     "name": "Zabbix",
@@ -133,18 +113,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "zabbix",
     "status": "down",
-    "uptime": "64.79%",
-    "uptimeDay": "64.79%",
-    "uptimeWeek": "64.79%",
-    "uptimeMonth": "64.79%",
-    "uptimeYear": "64.79%",
+    "uptime": "7.65%",
+    "uptimeDay": "7.65%",
+    "uptimeWeek": "7.65%",
+    "uptimeMonth": "7.65%",
+    "uptimeYear": "7.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-07": 0
+      "2020-12-07": 6
     }
   }
 ]
