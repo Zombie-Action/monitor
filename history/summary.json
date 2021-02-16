@@ -4,11 +4,11 @@
     "url": "$MEGO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mego",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 1171,
     "timeDay": 948,
@@ -16,6 +16,7 @@
     "timeMonth": 1062,
     "timeYear": 1171,
     "dailyMinutesDown": {
+      "2021-02-16": 4,
       "2021-02-10": 38
     }
   },
@@ -86,9 +87,9 @@
     "url": "$API_3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mego-api-3",
-    "status": "up",
+    "status": "down",
     "uptime": "94.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "88.65%",
     "uptimeYear": "94.95%",
@@ -98,6 +99,7 @@
     "timeMonth": 782,
     "timeYear": 1166,
     "dailyMinutesDown": {
+      "2021-02-16": 1,
       "2021-02-10": 38,
       "2021-02-03": 829,
       "2021-02-02": 1440,
