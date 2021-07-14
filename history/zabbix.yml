@@ -1,7 +1,7 @@
 url: $ZABBIX
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 603
-lastUpdated: 2021-07-13T23:10:53.856Z
+lastUpdated: 2021-07-14T22:41:50.155Z
 startTime: Mon Dec 07 2020 12:52:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
